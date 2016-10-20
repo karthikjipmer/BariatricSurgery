@@ -1,0 +1,15 @@
+[0] Config.pm:354> INFO - This is Biber 2.6
+[1] Config.pm:357> INFO - Logfile is 'MetS.blg'
+[207] biber-MSWIN32:302> INFO - === 
+[407] Biber.pm:359> INFO - Reading 'MetS.bcf'
+[625] Biber.pm:823> INFO - Found 4 citekeys in bib section 0
+[796] Biber.pm:3658> INFO - Processing section 0
+[923] Biber.pm:3828> INFO - Looking for bibtex format file 'MetS.bib' for section 0
+[1022] bibtex.pm:1425> INFO - Decoding LaTeX character macros into UTF-8
+[1061] bibtex.pm:1282> INFO - Found BibTeX data source 'MetS.bib'
+[1422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1423] Biber.pm:3487> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[1423] Biber.pm:3493> INFO - No sort tailoring available for locale 'en-US'
+[1480] bbl.pm:597> INFO - Writing 'MetS.bbl' with encoding 'UTF-8'
+[1486] bbl.pm:701> INFO - Output to MetS.bbl

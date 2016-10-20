@@ -1,0 +1,221 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{Cummings.2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=562f837995fab1cc5981501446827bfe}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=96c5cce47e58b192693a0e080ac3032f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Ricardo\bibnamedelima V.},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c37143e66159a36c8252de4953124850}
+      \strng{fullhash}{c37143e66159a36c8252de4953124850}
+      \strng{authornamehash}{c37143e66159a36c8252de4953124850}
+      \strng{authorfullhash}{c37143e66159a36c8252de4953124850}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE: Global usage of bariatric surgery has been dictated for the past quarter century by National Institutes of Health recommendations restricting these operations to individuals with a BMI {>}/=35 kg/m(2). Strong evidence now demonstrates that bariatric procedures markedly improve or cause remission of type 2 diabetes mellitus (T2DM), in part through weight-independent mechanisms, and that baseline BMI does not predict surgical benefits on glycemic or cardiovascular outcomes. This impels consideration of such operations as {\dq}metabolic surgery,{\dq} which is used expressly to treat T2DM, including among patients with a BMI {<}35 kg/m(2) who constitute the majority of people with diabetes worldwide. Here, we review available evidence to inform that consideration. RESULTS: A meta-analysis of the 11 published randomized clinical trials (RCTs) directly comparing bariatric/metabolic surgery versus a variety of medical/lifestyle interventions for T2DM provides level 1A evidence that surgery is superior for T2DM remission, glycemic control, and HbA1c lowering. Importantly, this is equally true for patients whose baseline BMI is below or above 35 kg/m(2). Similar conclusions derive from meta-analyses of high-quality nonrandomized prospective comparisons. Meta-analysis of all pertinent published studies indicates that T2DM remission rates following bariatric/metabolic surgery are comparable above and below the 35 kg/m(2) BMI threshold. The safety, antidiabetes durability, and benefits on other cardiovascular risk factors from bariatric/metabolic surgery appear roughly comparable among patients with a BMI below or above 35 kg/m(2). Further studies are needed to extend long-term findings and measure {\dq}hard{\dq} macrovascular/microvascular outcomes and mortality in RCTs. CONCLUSIONS: Extant data, including level 1A evidence from numerous RCTs, support new guidelines from the 2nd Diabetes Surgery Summit that advocate for the consideration of bariatric/metabolic surgery as one option, along with lifestyle and medical therapy, to treat T2DM among patients with a BMI {<}35 kg/m(2).}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes care}
+      \field{number}{6}
+      \field{title}{Bariatric/Metabolic Surgery to Treat Type 2 Diabetes in Patients With a BMI {<}35 kg/m2}
+      \field{volume}{39}
+      \field{year}{2016}
+      \field{pages}{924\bibrangedash 933}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.2337/dc16-0350
+      \endverb
+      \keyw{``decretins,''}
+    \endentry
+    \entry{Kurian.2016}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=fe3b058a4438f2c2aebbe1671cbda171}{%
+           family={Kurian},
+           familyi={K\bibinitperiod},
+           given={Marina\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=fc4fe96d1254dcdb6d7eb0472a24a0c5}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Bruce\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6442899638784bd5ca81cc7fca6b8b30}{%
+           family={Ikramuddin},
+           familyi={I\bibinitperiod},
+           given={Sayeed},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dd50681169a72d3e26b53203c9231f1a}
+      \strng{fullhash}{dd50681169a72d3e26b53203c9231f1a}
+      \strng{editornamehash}{dd50681169a72d3e26b53203c9231f1a}
+      \strng{editorfullhash}{dd50681169a72d3e26b53203c9231f1a}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book provides a concise, state-of-the art review of the surgical treatment of metabolic syndrome and diabetes mellitus. The volume reviews what current practices in surgery and metabolic syndrome and diabetes including the biohormonal effects of the different surgeries. Isolating the effects of the different procedures is critical to the decision tree for type of procedure selected for an individual patient. Specifically for diabetes, this textbook will provide a guide for practitioners to a tailored approach to the treatment. Areas of ongoing research that highlight the minimally invasive approach as well as incorporating what we know of the biochemical results of surgery are presented. Results of established weight loss procedures and ongoing trials are juxtaposed against some of the more novel techniques to ascertain a best practice. Metabolic Syndrome and Diabetes serves as a very useful resource for physicians and researchers dealing with, and interested in, this rising epidemic of metabolic syndrome and diabetes. It provides a concise yet comprehensive summary of the current status of the field that will help guide patient management and stimulate investigative efforts.}
+      \field{isbn}{978-1-4939-3219-1}
+      \field{title}{Metabolic syndrome and diabetes: Medical and surgical management}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1007/978-1-4939-3220-7
+      \endverb
+      \keyw{Diabetes;General Surgery;HEALTH {\&} FITNESS;MEDICAL;Medicine {\&} Public Health;Metabolic syndrome;Minimally Invasive Surgery}
+    \endentry
+    \entry{Martin.2013}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=b6791315d4fead1adf8fbb5219377f11}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Kathryn\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Endocrine Society}%
+      }
+      \strng{namehash}{b6791315d4fead1adf8fbb5219377f11}
+      \strng{fullhash}{b6791315d4fead1adf8fbb5219377f11}
+      \strng{editornamehash}{b6791315d4fead1adf8fbb5219377f11}
+      \strng{editorfullhash}{b6791315d4fead1adf8fbb5219377f11}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1-936704-13-7}
+      \field{title}{Compendium of Clinical Practice Guidelines}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1210/CCPG.9781936704668
+      \endverb
+    \endentry
+    \entry{Rubino.2016}{article}{}
+      \name{author}{14}{}{%
+        {{hash=b31e6d7058eb2b19fc10235fa9fe4b58}{%
+           family={Rubino},
+           familyi={R\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=512ed89504918688573d774e11610a6f}{%
+           family={Nathan},
+           familyi={N\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c446a2ebb0319aa7c441530b79132dd7}{%
+           family={Eckel},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0eabf4048fc599b88b7ebb8f9a01a74a}{%
+           family={Schauer},
+           familyi={S\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=430d817b4dc7ec32e3b1d5608d455440}{%
+           family={Alberti},
+           familyi={A\bibinitperiod},
+           given={K.\bibnamedelimi George\bibnamedelimb M.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9e16bf1c8eb8f606909c778fc3d3e140}{%
+           family={Zimmet},
+           familyi={Z\bibinitperiod},
+           given={Paul\bibnamedelima Z.},
+           giveni={P\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=45cfb68f6a8b8cb5cd193848c0cba28c}{%
+           family={{Del Prato}},
+           familyi={D\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a19eac972c8a6d85d0e58d27a9bf0966}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Linong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d248b3a4829aa02a40284cc03608cab3}{%
+           family={Sadikot},
+           familyi={S\bibinitperiod},
+           given={Shaukat\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=136965b697dd0c78cad061425f8ba491}{%
+           family={Herman},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5bd050c19ed01e0844e04f4fe7819e64}{%
+           family={Amiel},
+           familyi={A\bibinitperiod},
+           given={Stephanie\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=871a2d53c15602a8597196dc412f874f}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Lee\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8efed0fd46dc80c4e2694d574b3be52f}{%
+           family={Taroncher-Oldenburg},
+           familyi={T\bibinithyphendelim O\bibinitperiod},
+           given={Gaspar},
+           giveni={G\bibinitperiod}}}%
+        {{hash=562f837995fab1cc5981501446827bfe}{%
+           family={Cummings},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{aeddc2a862d1ebb8265b091709ed5be6}
+      \strng{fullhash}{6ae5dfb5c3fb801dce0c63220db9b5a9}
+      \strng{authornamehash}{aeddc2a862d1ebb8265b091709ed5be6}
+      \strng{authorfullhash}{6ae5dfb5c3fb801dce0c63220db9b5a9}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND: Despite growing evidence that bariatric/metabolic surgery powerfully improves type 2 diabetes (T2D), existing diabetes treatment algorithms do not include surgical options. AIM: The 2nd Diabetes Surgery Summit (DSS-II), an international consensus conference, was convened in collaboration with leading diabetes organizations to develop global guidelines to inform clinicians and policymakers about benefits and limitations of metabolic surgery for T2D. METHODS: A multidisciplinary group of 48 international clinicians/scholars (75{\%} nonsurgeons), including representatives of leading diabetes organizations, participated in DSS-II. After evidence appraisal (MEDLINE [1 January 2005-30 September 2015]), three rounds of Delphi-like questionnaires were used to measure consensus for 32 data-based conclusions. These drafts were presented at the combined DSS-II and 3rd World Congress on Interventional Therapies for Type 2 Diabetes (London, U.K., 28-30 September 2015), where they were open to public comment by other professionals and amended face-to-face by the Expert Committee. RESULTS: Given its role in metabolic regulation, the gastrointestinal tract constitutes a meaningful target to manage T2D. Numerous randomized clinical trials, albeit mostly short/midterm, demonstrate that metabolic surgery achieves excellent glycemic control and reduces cardiovascular risk factors. On the basis of such evidence, metabolic surgery should be recommended to treat T2D in patients with class III obesity (BMI {>}/=40 kg/m(2)) and in those with class II obesity (BMI 35.0-39.9 kg/m(2)) when hyperglycemia is inadequately controlled by lifestyle and optimal medical therapy. Surgery should also be considered for patients with T2D and BMI 30.0-34.9 kg/m(2) if hyperglycemia is inadequately controlled despite optimal treatment with either oral or injectable medications. These BMI thresholds should be reduced by 2.5 kg/m(2) for Asian patients. CONCLUSIONS: Although additional studies are needed to further demonstrate long-term benefits, there is sufficient clinical and mechanistic evidence to support inclusion of metabolic surgery among antidiabetes interventions for people with T2D and obesity. To date, the DSS-II guidelines have been formally endorsed by 45 worldwide medical and scientific societies. Health care regulators should introduce appropriate reimbursement policies.}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{Diabetes care}
+      \field{number}{6}
+      \field{title}{Metabolic Surgery in the Treatment Algorithm for Type 2 Diabetes: A Joint Statement by International Diabetes Organizations}
+      \field{volume}{39}
+      \field{year}{2016}
+      \field{pages}{861\bibrangedash 877}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.2337/dc16-0236
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
